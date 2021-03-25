@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " ##",
+        "gCi",
+        " ##"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:netherrack"
+        },
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "C": {
+            "item": "minecraft:coal"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "craftnstar:forgotten_shard",
+        "count": 1
+    }
+}
