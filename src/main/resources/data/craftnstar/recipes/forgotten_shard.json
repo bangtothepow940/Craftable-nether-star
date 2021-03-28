@@ -2,18 +2,18 @@
     "type": "minecraft:crafting_shaped",
     "pattern": [
         " ##",
-        "gCi",
+        "BEi",
         " ##"
     ],
     "key": {
         "#": {
             "item": "minecraft:netherrack"
         },
-        "g": {
-            "item": "minecraft:gold_ingot"
+        "B": {
+            "item": "minecraft:blaze_powder"
         },
-        "C": {
-            "item": "minecraft:coal"
+        "E": {
+            "item": "minecraft:ender_eye"
         },
         "i": {
             "item": "minecraft:iron_ingot"

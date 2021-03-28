@@ -1,16 +1,19 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        " # ",
-        "#D#",
-        " # "
+        "#R#",
+        "RDR",
+        "#R#"
     ],
     "key": {
         "#": {
+            "item": "minecraft:glass"
+        },
+        "R": {
             "item": "craftnstar:forgotten_shard"
         },
         "D": {
-            "item": "minecraft:diamond"
+            "item": "minecraft:diamond_block"
         }
     },
     "result": {
