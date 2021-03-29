@@ -1,0 +1,27 @@
+modLoader="javafml" #mandatory
+loaderVersion="[32,)" #mandatory
+#logoFile="" #optional
+authors="bangtothepow940 (original author), Caltinor (forge port) " #optional
+license="MIT License"
+
+[[mods]] #mandatory
+modId="craftnstar" #mandatory
+version="1.16.5-1.0" #mandatory
+displayName="Craft-able Nether Star" #mandatory
+#updateJSONURL=""
+description='''
+Forge Port of .
+'''
+
+[[dependencies.enderthing]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[32.0.1,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.enderthing]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.1,1.17)"
+    ordering="NONE"
+    side="BOTH"

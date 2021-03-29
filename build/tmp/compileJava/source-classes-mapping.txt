@@ -1,0 +1,3 @@
+banttothepow940/craftablenetherstar/CraftNStar.java
+ banttothepow940.craftablenetherstar.CraftNStar
+ banttothepow940.craftablenetherstar.CraftNStar$Registration

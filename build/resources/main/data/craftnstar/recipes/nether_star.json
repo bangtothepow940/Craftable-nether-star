@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#R#",
+        "RDR",
+        "#R#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:glass"
+        },
+        "R": {
+            "item": "craftnstar:forgotten_shard"
+        },
+        "D": {
+            "item": "minecraft:diamond_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:nether_star",
+        "count": 1
+    }
+}
